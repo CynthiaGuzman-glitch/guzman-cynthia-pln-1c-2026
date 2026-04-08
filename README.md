@@ -49,19 +49,26 @@ python -m venv .venv
 ### 3. Activar el entorno virtual
 
 **Windows (PowerShell):**
-
 ```powershell
 .venv\Scripts\Activate.ps1
 ```
 
 **Windows (Git Bash / CMD):**
-
 ```bash
 .venv\Scripts\activate
 ```
 
-> Si PowerShell muestra un error de permisos, ejecutá primero:
-> `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+**macOS / Linux:**
+```bash
+source .venv/bin/activate
+```
+
+Si PowerShell muestra un error de permisos, ejecutá primero (solo una vez en tu usuario):
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+Cuando el entorno esté activo, verás `(.venv)` al principio de la línea de la terminal.
 
 ### 4. Instalar las dependencias
 
