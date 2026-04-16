@@ -25,7 +25,11 @@ playwright install
 Write-Host "📚 Descargando recursos de NLTK..." -ForegroundColor Yellow
 python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt_tab')"
 
-# 5. Instalar Scrapling components
+# 5. Descargar el modelo de spaCy usado en la cursada
+Write-Host "🧠 Descargando modelo de spaCy (es_core_news_sm)..." -ForegroundColor Yellow
+python -m spacy download es_core_news_sm
+
+# 6. Instalar Scrapling components
 Write-Host "🕷️ Instalando componentes de Scrapling..." -ForegroundColor Yellow
 pip install scrapling
 

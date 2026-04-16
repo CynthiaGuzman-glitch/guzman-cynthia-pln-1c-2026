@@ -38,6 +38,8 @@ accelerate
 # --- PLN ---
 nltk
 spacy
+# Nota: el cuaderno integrador usa el modelo `es_core_news_sm`.
+# Instalación del modelo: `python -m spacy download es_core_news_sm`
 stanza
 spacy-stanza
 
