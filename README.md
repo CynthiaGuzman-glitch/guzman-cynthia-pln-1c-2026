@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratorio de Introducción al PLN, LLMs y Agentic AI
 
 **IFTS Nº 24 — Ciencia de Datos e Inteligencia Artificial**
@@ -168,3 +169,6 @@ Si ya lo instalaste pero aparece `FileNotFoundError`, podés indicarle la ruta m
 
 Este material se distribuye bajo licencia [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es):
 podés usarlo y adaptarlo con atribución, sin fines comerciales, y compartiendo bajo la misma licencia.
+=======
+# guzman-cynthia-pln-1c-2026
+>>>>>>> e32a6d731bf3d1e76d1a68e2e9bf96adc249c0c4

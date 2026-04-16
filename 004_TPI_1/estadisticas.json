@@ -1,0 +1,1410 @@
+{
+    "total_registros": 4,
+    "fuentes": {
+        "web": 2,
+        "audio": 1,
+        "json": 1
+    },
+    "entidades": [
+        {
+            "entidad": "BBC News",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Mundo - Página",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Principales\nPor qué el estrecho de Ormuz",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Irán",
+            "tipo": "LOC",
+            "frecuencia": 13
+        },
+        {
+            "entidad": "EE.UU.",
+            "tipo": "LOC",
+            "frecuencia": 8
+        },
+        {
+            "entidad": "Israel",
+            "tipo": "LOC",
+            "frecuencia": 5
+        },
+        {
+            "entidad": "Estados Unidos",
+            "tipo": "LOC",
+            "frecuencia": 7
+        },
+        {
+            "entidad": "Colombia",
+            "tipo": "LOC",
+            "frecuencia": 4
+        },
+        {
+            "entidad": "América",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Trump",
+            "tipo": "PER",
+            "frecuencia": 8
+        },
+        {
+            "entidad": "Papa",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Donald Trump",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "León XIV",
+            "tipo": "PER",
+            "frecuencia": 4
+        },
+        {
+            "entidad": "Ticketmaster",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La demanda",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Dr. Shiv Kumar Choudhry",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Destacamos\n\"Irresponsable y peligroso",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "China",
+            "tipo": "LOC",
+            "frecuencia": 4
+        },
+        {
+            "entidad": "Irán\nChina",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "KGB",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ramos",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "A ella y a su hermano",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La misma casa donde el esposo italiano de la espía",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "BBC",
+            "tipo": "ORG",
+            "frecuencia": 4
+        },
+        {
+            "entidad": "México",
+            "tipo": "LOC",
+            "frecuencia": 6
+        },
+        {
+            "entidad": "Culiacán",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sinaloa",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Grecia",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Turquía",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Picasso",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Christie's",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "París",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Video",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "la Tierra",
+            "tipo": "LOC",
+            "frecuencia": 4
+        },
+        {
+            "entidad": "Artemis II",
+            "tipo": "PER",
+            "frecuencia": 5
+        },
+        {
+            "entidad": "BBC Mundo",
+            "tipo": "ORG",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Improbable”\nNo te lo pierdas",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gaesa",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Cuba",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Fuerzas Armadas",
+            "tipo": "ORG",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Péter Magyar",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Viktor Orbán",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Hungría",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Entre sus promesas",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Unión Europea",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "República de Slowjamastan",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "California",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "San Diego",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Richard Burton",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La Meca",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "América Latina\nCómo",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Perú",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "reluce",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sheinbaum",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Venezuela",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Larry Devoe",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Tarek William Saab",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Asamblea Nacional de Venezuela",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Argentina",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Internacional\nPor",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "estrecho de Ormuz",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Medio Oriente",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Meloni",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Defensa de Italia",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Italia",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Líbano",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Vaticano",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Casa Blanca",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Begoña Gómez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Pedro Sánchez\nSe",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ahora",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "WhatsApp\nCiencia",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Tecnología\nPor",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "de Colombia",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Pablo Escobar",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "IA",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Lego",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "EE.UU.?",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "IA\nNinguno de los dos bandos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Y la competición",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "la Luna",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Salud y Bienestar\nMi hija",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sophia",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Te contamos por qué y qué puedes hacer para que no entorpezcan tus vacaciones.\n",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Solo en los últimos 300",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sociedad y Cultura\nLa crítica de la",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Euphoria",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "HBO",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Zendaya",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Jacob Elordi",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sydney Sweeney",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sin embargo",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Margarita de Inglaterra",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Isabel II",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Obra maestras innovadoras de mujeres",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Mi abuelo abusó sexualmente de decenas de niños",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Amanda Mustard",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Conversó",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Economía\n¿Por qué el golfo Pérsico",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Rolex",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ni un solo accionista",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Y una historia fascinante",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Visionario",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Dennis Hope",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Tierra\nAsí",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "NASA",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Océano Pacífico",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Tierra",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Orión",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Un joven lince",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Premio del Público del concurso Fotógrafo de Vida Silvestre del Año de 2026",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Smiljan Radić",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "premio Pritzker",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Radić",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Día Internacional de la Mujer",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Banco Central",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Delcy Rodríguez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Roberto Sánchez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Rafael López Aliaga\nLa Casa Blanca",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ibex",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Operation River Wall",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gobierno de España",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Brasil",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sudáfrica",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Uruguay",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Lituania",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Moraes",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Supremo",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gobierno de Milei",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Administración",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "ICE",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gemini",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El diario",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Grupo Prisa",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Estudio General de Medios\nLa agencia espacial",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "SLS",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Orion",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Rose",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Australia",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ronald Johnson",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ejecutivo",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Claudia Sheinbaum",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "FMI",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "España",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Europa",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "América Latina",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Iberoamérica\nMás",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Barcelona",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Latinoamérica",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Iglesia",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ir",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los hipopótamos causan 500 muertes al año en",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "África",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Matadero Madrid",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Fondo Monetario Internacional",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "en Estados Unidos",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La alianza regional de los países andinos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La Facultad de Ciencias de la Información de la UCM",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El personaje",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Fernando Cayo",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La Fondation Recherche Alzheimer",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Arbeloa",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Camavinga",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Caroline Kennedy",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "A punto",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Emmy",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Neil Tennant",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Chris Lowe",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Obscure",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Duations",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "USB",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "USBEDEN win",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "mi afraid",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "cr happiness",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Rainbow ¡Prisa",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "NLP",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "No trata de la comunicación por medio de lenguas naturales de una forma abstracta",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los modelos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El lenguaje natural",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Hasta la década de 1980",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "PLN",
+            "tipo": "ORG",
+            "frecuencia": 7
+        },
+        {
+            "entidad": "Historia",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Alan Turing",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Computing machinery and intelligence",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Turing",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Georgetown",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los autores",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El avance real",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "ALPAC",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Más tarde",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Moore",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Noam Chomsky",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "NLP4NLP",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Frontiers in Research Metrics and Analytics.[7][8",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Systran",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Más",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "ChatGPT",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Google Bard",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Por ejemplo",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Rompió el dibujo de un ataque de nervios",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Elementos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Detección",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El lugar en el que",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "OCR",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Componentes",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El análisis de las palabras",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El análisis de la estructura sintáctica",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La extracción del significado de la frase",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El análisis del texto",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Estructurar",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La generación de la cadena lineal de palabras",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Comprensión del lenguaje natural\n",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Comprensión del lenguaje natural",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "CLN",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Natural Language Understanding - NLU",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La CLN",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "De esta",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Aplicaciones",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Augusto Cortez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Huerta",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Hugo Vega",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Quispe",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Jaime Pariona",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Huayna",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ana Maria",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Procesamiento de lenguaje natural",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sistemas",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Consultado",
+            "tipo": "MISC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Hernández",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Myriam Beatriz",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gómez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "José M.",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Aplicaciones de Procesamiento de Lenguaje Natural",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Revista Politécnica",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Inter-Active Terminology for Europe",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Tecnologías del Lenguaje",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Plan for the Advancement of Language Technology",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Cervantes",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Instituto",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Presentación del «Plan de Impulso de las Tecnologías del Lenguaje",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "OCLC 1164865977",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Mariani",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Joseph",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Francopoulo",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Gil",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Paroubek",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Patrick",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "The NLP4NLP Corpus",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "I",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Frontiers in Research Metrics and Analytics",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Vernier",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Frédéric",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Mattingly",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "William",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Natural Language Processing with spaCy &",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Python - Course for Beginners",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Bibliografía\n[editar]-",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Jaime Carbonell",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Congreso de la Lengua Española",
+            "tipo": "ORG",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Sevilla",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Lenguas",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ángel G. Jordán",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Jurafsky",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "D. & JH",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Speech and Language Processing",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "3rd Edition",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Pearson",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Enlaces",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Computational Linguistics: Models",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Resources",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Applications",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Semantic Analysis of Verbal Collocations with Lexical Functions",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Recuperación",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Web",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "MachineReading",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Extracción",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Recuperación de Información",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Según patrones: léxicos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Antonio Valderrábanos",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Bitext",
+            "tipo": "LOC",
+            "frecuencia": 1
+        }
+    ]
+}
