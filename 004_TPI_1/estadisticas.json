@@ -17,68 +17,358 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Principales\nPor qué el estrecho de Ormuz",
+            "entidad": "Principales\nIrán",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Irán",
+            "entidad": "estrecho de Ormuz",
             "tipo": "LOC",
-            "frecuencia": 13
+            "frecuencia": 4
         },
         {
             "entidad": "EE.UU.",
             "tipo": "LOC",
-            "frecuencia": 8
+            "frecuencia": 13
         },
         {
-            "entidad": "Israel",
+            "entidad": "bloqueo naval\nVarios barcos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Líbano",
             "tipo": "LOC",
             "frecuencia": 5
         },
         {
-            "entidad": "Estados Unidos",
+            "entidad": "Irán",
             "tipo": "LOC",
-            "frecuencia": 7
+            "frecuencia": 19
         },
         {
-            "entidad": "Colombia",
+            "entidad": "Israel",
+            "tipo": "LOC",
+            "frecuencia": 8
+        },
+        {
+            "entidad": "Nuevos documentos judiciales",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "BBC",
+            "tipo": "ORG",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Terence Tao",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Gaby Muñoz",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Chula\nA",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Chula",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Destacamos\nSuecia",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Europa",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Mythos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Anthropic",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "IA",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Venezuela",
             "tipo": "LOC",
             "frecuencia": 4
         },
         {
-            "entidad": "América",
+            "entidad": "Washington",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Caracas",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "estrecho de Ormuz\nEl crudo",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Brent",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Video",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Estados Unidos",
             "tipo": "LOC",
             "frecuencia": 2
         },
         {
-            "entidad": "Trump",
-            "tipo": "PER",
-            "frecuencia": 8
+            "entidad": "BBC Mundo",
+            "tipo": "ORG",
+            "frecuencia": 2
         },
         {
-            "entidad": "Papa",
+            "entidad": "Improbable”\nNo te lo pierdas",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "D4vd",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Celeste Rivas Hernández",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "Donald Trump",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "León XIV",
-            "tipo": "PER",
-            "frecuencia": 4
-        },
-        {
-            "entidad": "Ticketmaster",
+            "entidad": "Reino Unido\nLa BBC",
             "tipo": "LOC",
             "frecuencia": 1
         },
         {
-            "entidad": "La demanda",
+            "entidad": "Reino Unido",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los planes de Seres",
             "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Trump\nEl presidente libanés",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Joseph Aoun",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Benjamin Netanyahu",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "El cierre del estrecho de Ormuz",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Asia\nAmérica Latina\nPor",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Costa Rica",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "América",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "FMI",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Argentina",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ecuador",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Colombia",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "México",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Culiacán",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sinaloa",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Roberto Sánchez",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Perú",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Keiko Fujimori",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "reluce",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Internacional\nLas imágenes",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "BBC Verify",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Trump",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Papa",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Donald Trump",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "León XIV",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "EE.UU.\nMira",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Omán",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Trump\nEl pontífice",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "WhatsApp\nCiencia",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Tecnología\nPor",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Australia",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "de Colombia",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
+            "entidad": "Pablo Escobar",
+            "tipo": "PER",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "IA",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Lego",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "China",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "EE.UU.?",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "IA\nNinguno de los dos bandos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Y la competición",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Salud y Bienestar",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
@@ -87,18 +377,28 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Destacamos\n\"Irresponsable y peligroso",
+            "entidad": "Pero hay tácticas sencillas",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "China",
-            "tipo": "LOC",
-            "frecuencia": 4
+            "entidad": "Mi hija",
+            "tipo": "MISC",
+            "frecuencia": 1
         },
         {
-            "entidad": "Irán\nChina",
-            "tipo": "LOC",
+            "entidad": "Sophia",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Te contamos por qué y qué puedes hacer para que no entorpezcan tus vacaciones.\n",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sociedad y Cultura\n\"Mi niñera",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
@@ -119,116 +419,6 @@
         {
             "entidad": "La misma casa donde el esposo italiano de la espía",
             "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "BBC",
-            "tipo": "ORG",
-            "frecuencia": 4
-        },
-        {
-            "entidad": "México",
-            "tipo": "LOC",
-            "frecuencia": 6
-        },
-        {
-            "entidad": "Culiacán",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sinaloa",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Grecia",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Turquía",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Picasso",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Christie's",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "París",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Video",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "la Tierra",
-            "tipo": "LOC",
-            "frecuencia": 4
-        },
-        {
-            "entidad": "Artemis II",
-            "tipo": "PER",
-            "frecuencia": 5
-        },
-        {
-            "entidad": "BBC Mundo",
-            "tipo": "ORG",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Improbable”\nNo te lo pierdas",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Gaesa",
-            "tipo": "PER",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Cuba",
-            "tipo": "LOC",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Fuerzas Armadas",
-            "tipo": "ORG",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Péter Magyar",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Viktor Orbán",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Hungría",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Entre sus promesas",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Unión Europea",
-            "tipo": "ORG",
             "frecuencia": 1
         },
         {
@@ -257,274 +447,59 @@
             "frecuencia": 1
         },
         {
-            "entidad": "América Latina\nCómo",
+            "entidad": "Economía\nPascagoula",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "Perú",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "reluce",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sheinbaum",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Venezuela",
-            "tipo": "LOC",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Larry Devoe",
-            "tipo": "PER",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Tarek William Saab",
-            "tipo": "PER",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Asamblea Nacional de Venezuela",
+            "entidad": "Chevron",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Argentina",
+            "entidad": "Gaesa",
             "tipo": "LOC",
             "frecuencia": 1
         },
         {
-            "entidad": "Internacional\nPor",
+            "entidad": "Cuba",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Fuerzas Armadas",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "estrecho de Ormuz",
+            "entidad": "Gaesa",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "golfo Pérsico",
             "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "la Tierra",
+            "tipo": "LOC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Citlali Fabián",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sony World Photography Awards",
+            "tipo": "MISC",
+            "frecuencia": 2
+        },
+        {
+            "entidad": "Artemis II",
+            "tipo": "PER",
             "frecuencia": 3
-        },
-        {
-            "entidad": "Medio Oriente",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Meloni",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Defensa de Italia",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Italia",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Líbano",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Vaticano",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Casa Blanca",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Begoña Gómez",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Pedro Sánchez\nSe",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ahora",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "WhatsApp\nCiencia",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Tecnología\nPor",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "de Colombia",
-            "tipo": "LOC",
-            "frecuencia": 3
-        },
-        {
-            "entidad": "Pablo Escobar",
-            "tipo": "PER",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "IA",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Lego",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "EE.UU.?",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "IA\nNinguno de los dos bandos",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Y la competición",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "la Luna",
-            "tipo": "LOC",
-            "frecuencia": 3
-        },
-        {
-            "entidad": "Salud y Bienestar\nMi hija",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sophia",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Te contamos por qué y qué puedes hacer para que no entorpezcan tus vacaciones.\n",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Solo en los últimos 300",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sociedad y Cultura\nLa crítica de la",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Euphoria",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "HBO",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Zendaya",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Jacob Elordi",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sydney Sweeney",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sin embargo",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Margarita de Inglaterra",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Isabel II",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Obra maestras innovadoras de mujeres",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Mi abuelo abusó sexualmente de decenas de niños",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Amanda Mustard",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Conversó",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Economía\n¿Por qué el golfo Pérsico",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Rolex",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ni un solo accionista",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Y una historia fascinante",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Visionario",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Dennis Hope",
-            "tipo": "PER",
-            "frecuencia": 1
         },
         {
             "entidad": "Tierra\nAsí",
@@ -548,6 +523,11 @@
         },
         {
             "entidad": "Orión",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "la Luna",
             "tipo": "LOC",
             "frecuencia": 1
         },
@@ -577,168 +557,18 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Día Internacional de la Mujer",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Banco Central",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Delcy Rodríguez",
+            "entidad": "Sheinbaum",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "Roberto Sánchez",
+            "entidad": "Lula",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "Rafael López Aliaga\nLa Casa Blanca",
+            "entidad": "Petro",
             "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ibex",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Operation River Wall",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Gobierno de España",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Brasil",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Sudáfrica",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Uruguay",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Lituania",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Moraes",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Supremo",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Gobierno de Milei",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Administración",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "ICE",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Gemini",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "El diario",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Grupo Prisa",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Estudio General de Medios\nLa agencia espacial",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "SLS",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Orion",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Rose",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Australia",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ronald Johnson",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ejecutivo",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Claudia Sheinbaum",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "FMI",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "España",
-            "tipo": "LOC",
-            "frecuencia": 2
-        },
-        {
-            "entidad": "Europa",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "América Latina",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Iberoamérica\nMás",
-            "tipo": "LOC",
             "frecuencia": 1
         },
         {
@@ -747,137 +577,72 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Latinoamérica",
-            "tipo": "LOC",
+            "entidad": "IV Cumbre en Defensa de la Democracia",
+            "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "Iglesia",
+            "entidad": "Inspectorio Zal",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Guideco",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "AN",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Ir",
+            "entidad": "Pero岩",
             "tipo": "LOC",
             "frecuencia": 1
         },
         {
-            "entidad": "Los hipopótamos causan 500 muertes al año en",
-            "tipo": "MISC",
+            "entidad": "Usted",
+            "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "África",
+            "entidad": "Despierta el praising",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Sergei ấy EL D",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Mitsukan",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Dueinen",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ewegen",
             "tipo": "LOC",
             "frecuencia": 1
         },
         {
-            "entidad": "Matadero Madrid",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Fondo Monetario Internacional",
-            "tipo": "ORG",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "en Estados Unidos",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "La alianza regional de los países andinos",
+            "entidad": "Las colores de containa de la vida",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "La Facultad de Ciencias de la Información de la UCM",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "El personaje",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Fernando Cayo",
+            "entidad": "Meś",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "La Fondation Recherche Alzheimer",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Arbeloa",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Camavinga",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Caroline Kennedy",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "A punto",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Emmy",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Neil Tennant",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Chris Lowe",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Obscure",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Duations",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "USB",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "USBEDEN win",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "mi afraid",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "cr happiness",
-            "tipo": "MISC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Rainbow ¡Prisa",
+            "entidad": "A zas got",
             "tipo": "MISC",
             "frecuencia": 1
         },
