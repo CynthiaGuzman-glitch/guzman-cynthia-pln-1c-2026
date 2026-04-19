@@ -27,7 +27,11 @@ playwright install
 echo "📚 Descargando recursos de NLTK..."
 python3 -c "import nltk; nltk.download('stopwords'); nltk.download('punkt_tab')"
 
-# 5. Instalar Scrapling components (según el readme actual)
+# 5. Descargar el modelo de spaCy usado en la cursada
+echo "🧠 Descargando modelo de spaCy (es_core_news_sm)..."
+python3 -m spacy download es_core_news_sm
+
+# 6. Instalar Scrapling components (según el readme actual)
 echo "🕷️ Instalando componentes de Scrapling..."
 pip install scrapling # Asumiendo que 'pip scrapling install' era un typo o alias
 

@@ -62,6 +62,7 @@ Este es el método estándar para aprender cómo se gestiona un entorno de Pytho
    pip install -r requirements.txt
    playwright install
    python -c "import nltk; nltk.download('stopwords'); nltk.download('punkt_tab')"
+   python -m spacy download es_core_news_sm
    ```
 
 ### Opción B: Instalación Automatizada (Avanzado)
@@ -80,6 +81,7 @@ Si tenés problemas técnicos con tu computadora local, podés usar Google Colab
 ```bash
 !pip install nltk spacy beautifulsoup4 playwright
 !playwright install
+!python -m spacy download es_core_news_sm
 ```
 **Nota:** Algunas funciones que requieren `FFmpeg` local o navegadores específicos pueden comportarse distinto en Colab.
 
@@ -131,7 +133,9 @@ ifts24-lab-pln-2026/
 │   ├── 008_App_Transcripcion_Gradio.ipynb
 │   └── ...
 ├── 003_spacy/
-├── Guias/
+├── docs/
+│   ├── Guias/
+│   └── ...
 └── ...
 ```
 

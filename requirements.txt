@@ -12,6 +12,7 @@ watermark
 # --- Análisis de datos ---
 pandas
 numpy
+scikit-learn
 
 # --- Web scraping ---
 requests
@@ -27,6 +28,7 @@ faster-whisper
 torch
 torchaudio
 transformers
+accelerate
 
 # NOTA: `ffmpeg` y `ffprobe` se instalan a nivel sistema, no con `pip`.
 # Windows: winget install Gyan.FFmpeg
@@ -36,6 +38,10 @@ transformers
 # --- PLN ---
 nltk
 spacy
+# Nota: el cuaderno integrador usa el modelo `es_core_news_sm`.
+# Instalación del modelo: `python -m spacy download es_core_news_sm`
+stanza
+spacy-stanza
 
 # --- Visualización ---
 matplotlib
