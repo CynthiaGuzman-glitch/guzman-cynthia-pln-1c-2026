@@ -17,29 +17,19 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Principales\nIrán",
+            "entidad": "Principales\nDe Japón",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "estrecho de Ormuz",
+            "entidad": "Cuba",
             "tipo": "LOC",
             "frecuencia": 4
         },
         {
-            "entidad": "EE.UU.",
+            "entidad": "EE. UU.",
             "tipo": "LOC",
-            "frecuencia": 13
-        },
-        {
-            "entidad": "bloqueo naval\nVarios barcos",
-            "tipo": "MISC",
             "frecuencia": 1
-        },
-        {
-            "entidad": "Líbano",
-            "tipo": "LOC",
-            "frecuencia": 5
         },
         {
             "entidad": "Irán",
@@ -47,9 +37,24 @@
             "frecuencia": 19
         },
         {
-            "entidad": "Israel",
+            "entidad": "estrecho de Ormuz",
             "tipo": "LOC",
-            "frecuencia": 8
+            "frecuencia": 3
+        },
+        {
+            "entidad": "EE.UU.",
+            "tipo": "LOC",
+            "frecuencia": 11
+        },
+        {
+            "entidad": "bloqueo naval\nVarios barcos",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Prisioneros",
+            "tipo": "ORG",
+            "frecuencia": 1
         },
         {
             "entidad": "Nuevos documentos judiciales",
@@ -92,6 +97,16 @@
             "frecuencia": 3
         },
         {
+            "entidad": "Isla del Ayer",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Isla del Mañana",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
             "entidad": "Mythos",
             "tipo": "MISC",
             "frecuencia": 1
@@ -119,7 +134,7 @@
         {
             "entidad": "Caracas",
             "tipo": "LOC",
-            "frecuencia": 1
+            "frecuencia": 2
         },
         {
             "entidad": "estrecho de Ormuz\nEl crudo",
@@ -135,6 +150,11 @@
             "entidad": "Video",
             "tipo": "MISC",
             "frecuencia": 1
+        },
+        {
+            "entidad": "Israel",
+            "tipo": "LOC",
+            "frecuencia": 6
         },
         {
             "entidad": "Estados Unidos",
@@ -177,6 +197,11 @@
             "frecuencia": 1
         },
         {
+            "entidad": "Líbano",
+            "tipo": "LOC",
+            "frecuencia": 3
+        },
+        {
             "entidad": "Trump\nEl presidente libanés",
             "tipo": "PER",
             "frecuencia": 1
@@ -209,7 +234,7 @@
         {
             "entidad": "América",
             "tipo": "LOC",
-            "frecuencia": 3
+            "frecuencia": 2
         },
         {
             "entidad": "FMI",
@@ -289,7 +314,7 @@
         {
             "entidad": "Donald Trump",
             "tipo": "PER",
-            "frecuencia": 2
+            "frecuencia": 3
         },
         {
             "entidad": "León XIV",
@@ -462,11 +487,6 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Cuba",
-            "tipo": "LOC",
-            "frecuencia": 2
-        },
-        {
             "entidad": "Fuerzas Armadas",
             "tipo": "ORG",
             "frecuencia": 1
@@ -557,13 +577,108 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Sheinbaum",
+            "entidad": "Ayuso",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "Lula",
+            "entidad": "OMI",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Lisa Kudrow",
             "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Phoebe Buffay",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Valerie Cherish",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Hollywood",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los mayores patrimonios del planeta",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Miami",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Fernández",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Castro",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "EEUU",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Nueva York",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ejército",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Putin",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Visitamos",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Pontífice",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Iglesia",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Curia\nLos cien años",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Colombia\nAnte",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "EE UU",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "América Latina",
+            "tipo": "MISC",
             "frecuencia": 1
         },
         {
@@ -572,77 +687,162 @@
             "frecuencia": 1
         },
         {
-            "entidad": "Barcelona",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "IV Cumbre en Defensa de la Democracia",
+            "entidad": "Una tercera parte",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "Inspectorio Zal",
+            "entidad": "El festival",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "Guideco",
+            "entidad": "Marisa Flórez\nLa ‘start-up",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "AN",
+            "entidad": "Novartis",
             "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Pero岩",
-            "tipo": "LOC",
+            "entidad": "Netflix",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Usted",
-            "tipo": "PER",
+            "entidad": "Microsoft",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Despierta el praising",
-            "tipo": "PER",
+            "entidad": "Bolsa",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Sergei ấy EL D",
-            "tipo": "PER",
+            "entidad": "Ibex",
+            "tipo": "ORG",
             "frecuencia": 1
         },
         {
-            "entidad": "Mitsukan",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Dueinen",
-            "tipo": "PER",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Ewegen",
-            "tipo": "LOC",
-            "frecuencia": 1
-        },
-        {
-            "entidad": "Las colores de containa de la vida",
+            "entidad": "Los expertos",
             "tipo": "MISC",
             "frecuencia": 1
         },
         {
-            "entidad": "Meś",
+            "entidad": "Guernica",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Bilbao",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Anuncios’",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Carlos Idun-Tawiah",
             "tipo": "PER",
             "frecuencia": 1
         },
         {
-            "entidad": "A zas got",
+            "entidad": "Braden Peters",
+            "tipo": "PER",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "K-pop",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Un viaje de Seúl",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Jeju",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Los crucigramas pasan a estar",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Italia",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Salmonetes",
+            "tipo": "ORG",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "at least 16 of whom have faced",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "while 56 have felt an impact on their personal and professional lives",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "La virā novo achter",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "rôle No",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Por eso te quedes",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Y que quieres... ¿Qué es tu pai?",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Si! ay pretento... ¿Que no?",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Nan",
+            "tipo": "LOC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ahora",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Un co Daniel",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "seuki怕",
+            "tipo": "MISC",
+            "frecuencia": 1
+        },
+        {
+            "entidad": "Ac Meteor ...",
             "tipo": "MISC",
             "frecuencia": 1
         },
