@@ -30,3 +30,6 @@ docs/
 
 # Herramientas
 herramientas/
+
+# Ignorar modelos de embeddings
+010_representaciones_semanticas_parte2/vectors/
