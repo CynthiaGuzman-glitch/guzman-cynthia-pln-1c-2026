@@ -27,3 +27,9 @@ docs/
 
 # Cuadernos locales no compartidos
 006_lab_integrador_guiado/001_laboratorio_integrador.ipynb
+
+# Herramientas
+herramientas/
+
+# Ignorar modelos de embeddings
+010_representaciones_semanticas_parte2/vectors/
