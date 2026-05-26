@@ -33,3 +33,9 @@ herramientas/
 
 # Ignorar modelos de embeddings
 010_representaciones_semanticas_parte2/vectors/
+
+# Playground
+playground/
+
+# Ignorar archivos de metadatos y temporales de punto (e.g. AppleDouble macOS)
+**/._*
