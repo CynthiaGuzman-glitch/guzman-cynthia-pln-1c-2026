@@ -1,9 +1,9 @@
-# Unidad 013 — Large Language Models
+# Unidad 014 — APIs, LLMs Locales y RAG
 
 **Tecnicatura Superior en Ciencias de Datos e IA — IFTS24**  
 Laboratorio de Procesamiento del Lenguaje Natural · Matías Barreto, 2026
 
-Colección de notebooks sobre modelos de lenguaje grandes (LLMs), tokenización, embeddings, arquitectura Transformer, técnicas de decodificación y generación de texto avanzadas, y la implementación paso a paso de un modelo GPT desde cero utilizando PyTorch.
+Colección de notebooks sobre el uso de APIs de modelos de lenguaje grandes (OpenAI, Gemini), configuración y despliegue de LLMs locales con Ollama, extracción estructurada con Pydantic orientada a humanidades digitales, procesamiento de documentos, bases de datos vectoriales con ChromaDB y desarrollo de sistemas RAG (Retrieval-Augmented Generation) completos integrando LangChain.
 
 ---
 
@@ -11,9 +11,12 @@ Colección de notebooks sobre modelos de lenguaje grandes (LLMs), tokenización,
 
 | Notebook | Tema |
 |---|---|
-| `01_introduccion_modelos_lenguaje` | Introducción a los Modelos de Lenguaje y conceptos fundamentales |
-| `02_tokens_y_embeddings` | Procesamiento de texto: tokenización, subwords y vectores de embeddings |
-| `04_aplicaciones_transformers` | Tareas clásicas con pipelines de Transformers (clasificación, NER, traducción, etc.) |
+| `04_actualizacion_informacion_llms` | Actualización de información en LLMs: agentes sencillos de búsqueda externa usando SerpAPI y OpenAI |
+| `05_ollama_llms_locales` | Introducción a LLMs locales: configuración, ejecución e interfaz gráfica con Gradio usando Ollama |
+| `06_modelos_locales_pydantic_humanidades` | Extracción estructurada de información con Pydantic, grafos relacionales y visualización |
+| `07_carga_documentos_rag` | Carga de documentos: procesamiento, carga y partición de PDFs y páginas web con LangChain |
+| `08_bases_datos_vectoriales_chromadb` | Almacenamiento vectorial: inicialización, persistencia, consulta y embeddings con ChromaDB |
+| `09_sistema_rag_completo_gemini` | Implementación de un pipeline RAG completo usando LangChain, Chroma y la API de Gemini (con opción local) |
 
 ---
 
@@ -46,6 +49,7 @@ Alternativa clásica y muy confiable:
 
 - **Python 3.10 o superior** — [python.org/downloads](https://www.python.org/downloads/)
 - **uv** — gestor de entornos virtuales ultrarrápido
+- **Ollama** — requerido para ejecutar los modelos locales de la unidad — [ollama.com](https://ollama.com)
 
 ### Pasos para configurar el entorno
 
@@ -62,10 +66,4 @@ Alternativa clásica y muy confiable:
 
    # Instalar las dependencias específicas de esta unidad
    uv pip install -r requirements.txt
-   ```
-
-2. **Modelos de spaCy**:
-   Si ejecutás el notebook `04_aplicaciones_transformers.ipynb`, recordá que requiere el modelo en español de spaCy:
-   ```bash
-   python -m spacy download es_core_news_sm
    ```

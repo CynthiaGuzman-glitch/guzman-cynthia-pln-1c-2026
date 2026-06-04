@@ -1,0 +1,42 @@
+# ============================================================
+# IFTS Nº 24 — Lab de Introducción al PLN, LLMs y Agentic AI
+# Dependencias específicas de la Unidad 14: APIs, LLMs Locales y RAG
+# ============================================================
+
+# --- Core y Computación ---
+torch
+numpy
+pandas
+
+# --- APIs y Clientes de LLMs ---
+ollama
+openai
+
+# --- Búsqueda y Scraping ---
+google-search-results
+requests
+beautifulsoup4
+
+# --- Ecosistema LangChain ---
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+
+# --- Bases de datos Vectoriales ---
+chromadb
+
+# --- Modelado Semántico ---
+sentence-transformers
+
+# --- Visualización, Grafos y Reducción de Dimensionalidad ---
+matplotlib
+altair
+networkx
+umap-learn
+
+# --- Validación de Datos ---
+pydantic
+
+# --- Interfaces ---
+gradio
