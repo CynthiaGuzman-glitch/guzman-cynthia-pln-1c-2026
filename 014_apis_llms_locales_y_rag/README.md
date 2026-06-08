@@ -11,12 +11,12 @@ Colección de notebooks sobre el uso de APIs de modelos de lenguaje grandes (Ope
 
 | Notebook | Tema |
 |---|---|
-| `04_actualizacion_informacion_llms` | Actualización de información en LLMs: agentes sencillos de búsqueda externa usando SerpAPI y OpenAI |
+| `01_actualizacion_informacion_llms` | Actualización de información en LLMs: agentes sencillos de búsqueda externa usando SerpAPI y OpenAI |
+| `02_carga_documentos_rag` | Carga de documentos: procesamiento, carga y partición de PDFs y páginas web con LangChain |
+| `03_bases_datos_vectoriales_chromadb` | Almacenamiento vectorial: inicialización, persistencia, consulta y embeddings con ChromaDB |
+| `04_sistema_rag_completo_gemini` | Implementación de un pipeline RAG completo usando LangChain, Chroma y la API de Gemini (con opción local) |
 | `05_ollama_llms_locales` | Introducción a LLMs locales: configuración, ejecución e interfaz gráfica con Gradio usando Ollama |
 | `06_modelos_locales_pydantic_humanidades` | Extracción estructurada de información con Pydantic, grafos relacionales y visualización |
-| `07_carga_documentos_rag` | Carga de documentos: procesamiento, carga y partición de PDFs y páginas web con LangChain |
-| `08_bases_datos_vectoriales_chromadb` | Almacenamiento vectorial: inicialización, persistencia, consulta y embeddings con ChromaDB |
-| `09_sistema_rag_completo_gemini` | Implementación de un pipeline RAG completo usando LangChain, Chroma y la API de Gemini (con opción local) |
 
 ---
 
@@ -67,3 +67,24 @@ Alternativa clásica y muy confiable:
    # Instalar las dependencias específicas de esta unidad
    uv pip install -r requirements.txt
    ```
+
+### Configuración de API keys
+
+Este proyecto usa variables de entorno para manejar claves de APIs externas.
+
+1. Copiá el archivo de ejemplo:
+
+   ```bash
+   cp .env.example .env
+   ```
+
+2. Editá `.env` y completá tus claves:
+
+   ```
+   OPENAI_API_KEY=tu_clave_de_openai
+   GOOGLE_API_KEY=tu_clave_de_google
+   GEMINI_API_KEY=tu_clave_de_gemini
+   SERPAPI_API_KEY=tu_clave_de_serpapi
+   ```
+
+3. No subas `.env` al repositorio. Ese archivo contiene secretos locales.
