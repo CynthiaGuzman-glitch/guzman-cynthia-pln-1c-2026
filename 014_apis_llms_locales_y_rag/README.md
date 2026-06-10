@@ -17,6 +17,8 @@ Colección de notebooks sobre el uso de APIs de modelos de lenguaje grandes (Ope
 | `04_sistema_rag_completo_gemini` | Implementación de un pipeline RAG completo usando LangChain, Chroma y la API de Gemini (con opción local) |
 | `05_ollama_llms_locales` | Introducción a LLMs locales: configuración, ejecución e interfaz gráfica con Gradio usando Ollama |
 | `06_modelos_locales_pydantic_humanidades` | Extracción estructurada de información con Pydantic, grafos relacionales y visualización |
+| `07_proyecto_final_rag_gradio` | Proyecto integrador: RAG local completo con interfaz de usuario en Gradio y preparación de archivos (`app.py`, `requirements.txt`) para su despliegue en HuggingFace Spaces |
+| `08_BONUS_A_B_testing` | Experimento de A/B testing para evaluar la efectividad de estrategias de prompting (zero-shot vs. few-shot) con interfaz de evaluación humana ciega usando ipywidgets y análisis estadístico |
 
 ---
 
