@@ -4,10 +4,11 @@ emoji: 📈
 colorFrom: blue
 colorTo: green
 sdk: gradio
-sdk_version: 4.38.1
+sdk_version: 5.33.0
 app_file: app.py
 pinned: false
 ---
+
 
 # Asistente de Mercado de Capitales mediante RAG
 
@@ -141,6 +142,7 @@ El proyecto permitió aplicar conceptos de procesamiento de lenguaje natural, em
 ## Despliegue
 
 El sistema fue publicado en Hugging Face Spaces y puede utilizarse desde un navegador web sin necesidad de instalar software adicional.
+
 
 URL:https://cynthia2026-asistente-mercado-capitales-rag.hf.space
 
