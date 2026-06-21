@@ -1,5 +1,5 @@
 # Entorno virtual
-.venv/
+.pln/
 
 # Python
 __pycache__/
@@ -41,3 +41,9 @@ playground/
 **/._*
 
 .agents/
+
+# Notebooks descartados (curaduría de clases)
+**/_archivo/
+
+# Gradio cache
+**/.gradio/
